@@ -1,0 +1,59 @@
+header{
+    color: white;
+    background-color: red;
+    text-align: center;
+    margin: 0;
+}
+h1{
+    color: lightblue;
+    background-color: blue;
+    text-align: left;
+    margin: 0;
+}
+body{
+    background-color: orange;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1200px;
+    margin: 0;
+    padding: 10px;
+    border: 2px solid;
+}
+.karnas{
+    width: 100%;
+    margin: 0;
+}
+.uwu-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.uwu-item {
+    flex: 1;
+    margin: 10px;
+    text-align: left;
+    background-color: white;
+    border: 3px solid;
+    padding: 10px;
+}
+
+.uwu-item img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    padding: 0%;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
